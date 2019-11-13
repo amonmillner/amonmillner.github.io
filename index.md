@@ -1,6 +1,6 @@
 ## Welcome to Amon Millner's Playful Portfolio
 
-As an Assistant Professor of Computing and Innovation at the Olin College of Engineering, I teach courses that encourage students to learn how to use GitHub as they learn how to make projects using Python. One of the class sessions is dedicated to highlighting the merits of using the GitHub Pages feature to host a portfolio of software projects. 
+As an Associate Professor of Computing and Innovation at the Olin College of Engineering, I teach courses that encourage students to learn how to use GitHub as they learn how to make projects using Python. One of the class sessions is dedicated to highlighting the merits of using the GitHub Pages feature to host a portfolio of software projects. 
 
 ### The Totem Game
 
